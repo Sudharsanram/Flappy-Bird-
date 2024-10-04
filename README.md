@@ -1,4 +1,4 @@
-# flappy-bird
+# Flappy-Bird
 # Ex.No: 10   Mini Project 
 ### DATE:                                                                           
 ### REGISTER NUMBER : 212222110048
